@@ -5,6 +5,7 @@ Implementation of Surprisal-Feedback LSTM from "Surprisal-Driven Feedback in Rec
 
 https://arxiv.org/abs/1608.06027
 
+```
 @article{DBLP:journals/corr/Rocki16b,
   author    = {Kamil Rocki},
   title     = {Surprisal-Driven Feedback in Recurrent Networks},
@@ -16,18 +17,18 @@ https://arxiv.org/abs/1608.06027
   biburl    = {http://dblp.uni-trier.de/rec/bib/journals/corr/Rocki16b},
   bibsource = {dblp computer science bibliography, http://dblp.org}
 }
-
+```
 And Surprisal-Feedback Zoneout (NIPS 2016 Workshop: Continual Learning and Deep Networks) (src/layers/surprisalrLSTM.h)
 
 https://arxiv.org/pdf/1610.07675.pdf
-
+```
 @article{rocki2016surprisal,
   title={Surprisal-Driven Zoneout},
   author={Rocki, Kamil and Kornuta, Tomasz and Maharaj, Tegan},
   journal={arXiv preprint arXiv:1610.07675},
   year={2016}
 }
-
+```
 ## Getting Started
 to compile (with CUDA):
 
