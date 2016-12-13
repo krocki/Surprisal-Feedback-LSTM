@@ -1,7 +1,8 @@
 
 
 # Surprisal-Feedback LSTM
-Implementation of Surprisal-Feedback LSTM from "Surprisal-Driven Feedback in Recurrent Networks" (implementation src/layers/surprisalLSTM.h)
+Implementation of Surprisal-Feedback LSTM from "Surprisal-Driven Feedback in Recurrent Networks" 
+(implementation in https://github.com/krocki/Surprisal-Feedback-LSTM/blob/master/src/layers/surprisalLSTM.h)
 
 https://arxiv.org/abs/1608.06027
 
@@ -20,7 +21,7 @@ https://arxiv.org/abs/1608.06027
 ```
 And Surprisal-Feedback Zoneout (NIPS 2016 Workshop: Continual Learning and Deep Networks - poster: https://github.com/krocki/Surprisal-Feedback-LSTM/blob/master/nips-2016-surprisal-poster.pdf
 
-(implementation of SF-Zoneout in src/layers/surprisalrLSTM.h)
+(implementation in https://github.com/krocki/Surprisal-Feedback-LSTM/blob/master/src/layers/surprisalrLSTM.h)
 
 https://arxiv.org/pdf/1610.07675.pdf
 ```
