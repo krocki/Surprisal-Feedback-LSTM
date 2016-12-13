@@ -18,7 +18,8 @@ https://arxiv.org/abs/1608.06027
   bibsource = {dblp computer science bibliography, http://dblp.org}
 }
 ```
-And Surprisal-Feedback Zoneout (NIPS 2016 Workshop: Continual Learning and Deep Networks) (src/layers/surprisalrLSTM.h)
+And Surprisal-Feedback Zoneout (NIPS 2016 Workshop: Continual Learning and Deep Networks - poster: https://github.com/krocki/Surprisal-Feedback-LSTM/blob/master/nips-2016-surprisal-poster.pdf
+) (src/layers/surprisalrLSTM.h)
 
 https://arxiv.org/pdf/1610.07675.pdf
 ```
