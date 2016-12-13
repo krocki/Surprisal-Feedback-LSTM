@@ -1,6 +1,6 @@
 
 
-# Array-LSTM
+# Surprisal-Feedback LSTM
 Implementation of Surprisal-Feedback LSTM from "Surprisal-Driven Feedback in Recurrent Networks" (implementation src/layers/surprisalLSTM.h)
 
 https://arxiv.org/abs/1608.06027
